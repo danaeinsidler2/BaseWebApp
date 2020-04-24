@@ -7,8 +7,8 @@ body {
 }
 
 h1 {
-  font-family: 'Poppins', sans-serif;
-  font-weight: 700;
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 400;
   margin-top: 40px;
   font-size: 48px;
 }
@@ -22,10 +22,10 @@ button {
 }
 
 .page-header {
-  background-color: #00bda5;
+  background-color: #ff3845;
   padding-top: 40px;
   padding-bottom: 80px;
-  color: #ffffff;
+  color: #fcfcfc;
 }
 
 #image img {
