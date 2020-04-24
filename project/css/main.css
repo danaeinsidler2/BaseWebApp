@@ -1,6 +1,6 @@
 
 body {
-  font-family: Arial, serif;
+  font-family: 'Libre Baskerville', serif;
   text-align: center;
   color: #343a40;
   font-size: 22px;
@@ -9,8 +9,13 @@ body {
 h1 {
   font-family: 'Libre Baskerville', serif;
   font-weight: 400;
+  font-style: italic;
   margin-top: 40px;
   font-size: 48px;
+}
+
+h5 {
+  font-size: 12px;
 }
 
 p {
@@ -31,4 +36,9 @@ button {
 #image img {
   height: 200px;
   margin-top: 60px;
+}
+
+.footer {
+padding:50px
+
 }
